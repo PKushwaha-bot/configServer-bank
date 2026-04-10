@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to account API contact page in Prod from config server"
+  contactDetail:
+    name: "premshankar kushwaha"
+    email: "pkpremshankar@gmail.com"
+  onCallSupport:
+    -9873098571
+    -784563259
