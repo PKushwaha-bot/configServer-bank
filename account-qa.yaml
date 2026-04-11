@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to account API contact page using in QA environment"
+  message: "Welcome to account API contact page using in QA env"
   contactDetail:
     name: "premshankar kushwaha"
     email: "pkpremshankar@gmail.com"
