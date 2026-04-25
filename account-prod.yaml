@@ -24,4 +24,9 @@ info:
     name: "Account Service"
     description: "Account Service application"
     version: "1.0"
-
+eureka:
+  instance:
+    metadata-map:
+      management.context-path: /management
+    statusPageUrlPath: /management/info
+    healthCheckUrlPath: /management/health
