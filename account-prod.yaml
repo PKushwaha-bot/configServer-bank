@@ -6,3 +6,22 @@ accounts:
   onCallSupport:
     -9873098571
     -784563259
+
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  info:
+    env:
+      enabled: true
+  endpoint:
+    shutdown:
+      access: unrestricted
+info:
+  app:
+    name: "Account Service"
+    description: "Account Service application"
+    version: "1.0"
+
